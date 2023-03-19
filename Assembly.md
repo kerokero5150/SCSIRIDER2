@@ -32,5 +32,5 @@ PolySwitch link:https://6a11.short.gy/PU9sCv
 <BR>
 
 <BR><BR>
-https://ameblo.jp/keroxiee1016/entry-12783134284.html
+https://ameblo.jp/keroxiee1016/entry-12794523403.html
 More details here
