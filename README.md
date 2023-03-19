@@ -16,7 +16,7 @@ More details here (My Blog):
 
 ## Assemble
 
-Check out the [assembly instructions](Assembly/README.md) when you're ready to get started.
+Check out the [Assembly](Assembly.md) when you're ready to get started.
 
 ## Supported Macs
 ![alt](Images/IMG_5054.JPG)
