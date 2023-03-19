@@ -30,9 +30,10 @@ This works on most 68K Macs and PPC Macs as long as there is no physical interfe
 You can use it by compressing [SR2_Gen_Gerber](SR2_Gen_Gerber)  and uploading it to JLCPCB as it is.
 
 <BR><BR>
-##　SCSI RIDER 2 Kit
+## SCSI RIDER 2 Kit
 
 If you want a quick kit, you can buy it at my store below. It is 6 USD.
+https://en.infinityproducts.co.jp/product-page/scsi-rider2-bare-pcb-kit-db25-to-50pin-adapter
 
 
 ## License
