@@ -7,10 +7,12 @@ QTY.  LOCATION PARTS                   COMMENT<br>
 1     331      1206 330ohms Resistor<br>
 1     LED1     1206 SMD LED<br> 
 
-Connectors:
+Connectors from above:<BR>
 db25 male connector 90 degree<BR>
-SCSI1: 50pin female connecter<BR>
-SCSI2: 50pin male right angle connector<BR>
+SCSI1, 50pin female connecter<BR>
+SCSI2, 50pin male right angle connector<BR>
+  <BR>
+  Of course you can SCSI daisy-chaining , but when using SCSI1 and SCSI2 together, don't forget to turn off the termination of SCSI1 and turn on the termination of SCSI2.<BR><BR>
 
 db25 male connector link:
 https://www.digikey.jp/ja/products/detail/adam-tech/DB25-PL-24/9832321
