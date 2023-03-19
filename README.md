@@ -29,6 +29,12 @@ This works on most 68K Macs and PPC Macs as long as there is no physical interfe
 
 You can use it by compressing [SR2_Gen_Gerber](SR2_Gen_Gerber)  and uploading it to JLCPCB as it is.
 
+<BR><BR>
+##　SCSI RIDER 2 Kit
+
+If you want a quick kit, you can buy it at my store below. It is 6 USD.
+
+
 ## License
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
