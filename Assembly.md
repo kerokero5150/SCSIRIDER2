@@ -8,9 +8,9 @@ QTY.  LOCATION PARTS                   COMMENT<br>
 1     LED1     1206 SMD LED<br> 
 
 Connectors:
-db25 male connector 90 degree
-SCSI1: 50pin female connecter
-SCSI2: 50pin male right angle connector
+db25 male connector 90 degree<BR>
+SCSI1: 50pin female connecter<BR>
+SCSI2: 50pin male right angle connector<BR>
 
 db25 male connector link:
 https://www.digikey.jp/ja/products/detail/adam-tech/DB25-PL-24/9832321
