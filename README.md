@@ -21,13 +21,13 @@ Check out the [assembly instructions](Assembly/README.md) when you're ready to g
 ## Supported Macs
 ![alt](Images/IMG_5054.JPG)
 <BR>
-*SCSI RIDER with Classic2
+*SCSI RIDER with SE/30
 <BR><BR>
-Macintosh SE, SE/30, Classic, Classic2 *It may work for IIcx and IIci, but it has not been verified yet.
+This works on most 68K Macs and PPC Macs as long as there is no physical interference. My intended use is mainly for testbenches.
 
 ## Gerber files
 
-You can use it by compressing [ER_R1.2_GERBER](ER_R1.2_GERBER)  and uploading it to JLCPCB as it is.
+You can use it by compressing [SR2_Gen_Gerber](SR2_Gen_Gerber)  and uploading it to JLCPCB as it is.
 
 ## License
 
