@@ -21,14 +21,14 @@ https://www.digikey.com/short/dwq849tr
 50pin male Right Angle connecter link:
 https://www.digikey.jp/ja/products/detail/3m/30350-5002HB/1237406
 <BR>
-Other than the 50pin female connector, even cheap ones work relatively well.
+Other than the 50pin female connector(* Cheap Chinese connectors can be used, but they are tight and difficult to use.I can recommend a good one even if it is expensive), even cheap ones work relatively well.
 
 
 
 PolySwitch link:https://6a11.short.gy/PU9sCv
 
 <BR>
-* Cheap Chinese connectors can be used, but they are tight and difficult to use.I can recommend a good one even if it is expensive.
+
 <BR><BR>
 https://ameblo.jp/keroxiee1016/entry-12783134284.html
 More details here
