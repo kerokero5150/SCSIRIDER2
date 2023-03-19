@@ -12,7 +12,7 @@ The device to be installed is mainly assumed to be
   ![alt](Images/IMG_5074.jpeg)
 <BR>
 More details here (My Blog):
-  https://ameblo.jp/keroxiee1016/entry-12782849654.html
+https://ameblo.jp/keroxiee1016/entry-12794523403.html
 
 ## Assemble
 
@@ -21,7 +21,7 @@ Check out the [Assembly](Assembly.md) when you're ready to get started.
 ## Supported Macs
 ![alt](Images/IMG_5054.JPG)
 <BR>
-*SCSI RIDER with SE/30
+*SCSI RIDER 2 with SE/30
 <BR><BR>
 This works on most 68K Macs and PPC Macs as long as there is no physical interference. My intended use is mainly for testbenches.
 
