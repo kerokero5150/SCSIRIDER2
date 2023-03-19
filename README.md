@@ -1,6 +1,6 @@
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 <br>
-　![alt](images/IMG_4263.jpeg)
+　![alt](images/IMG_5069.jpeg)
 # What kind of product is this
 This SCSI RIDER 2 is riser card for connecting SCSI devices like BlueSCSI V2 to the external SCSI db25 connector.
 Especially designed for Mac SE/30, SE...
@@ -8,7 +8,7 @@ Especially designed for Mac SE/30, SE...
 The device to be installed is mainly assumed to be 
 *[BlueSCSI](https://github.com/erichelgeson/BlueSCSI)*
 <BR>
-  ![alt](images/IMG_4259.jpg)
+  ![alt](images/IMG_5054.JPG)
 <BR>
 More details here (My Blog):
   https://ameblo.jp/keroxiee1016/entry-12782849654.html
