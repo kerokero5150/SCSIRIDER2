@@ -4,7 +4,7 @@ Use the following parts: *Because there are few, it is not BOM.
 
 QTY.  LOCATION PARTS                   COMMENT<br>
 1     F1       1206 *1.5A PolySwitch<br>
-1     331      1206 330ohms Resistor<br>
+1     331      1206 470ohms Resistor *At the initial stage, it was listed as 330ohms, but since the power depends on the LED, around 470ohms is appropriate.<br>
 1     LED1     1206 SMD LED<br> 
 
 Connectors from above:<BR>
